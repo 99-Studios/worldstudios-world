@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/blazite_ore_block",
-    "particle": "big_addon:block/blazite_ore_block"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "big_addon:block/icey_grass",
-    "particle": "big_addon:block/icey_grass"
-  },
-  "render_type": "cutout"
-}

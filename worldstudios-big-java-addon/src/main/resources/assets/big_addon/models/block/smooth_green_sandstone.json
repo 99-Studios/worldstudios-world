@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/green_sandstone_top",
-    "particle": "big_addon:block/green_sandstone_top"
-  },
-  "render_type": "cutout_mipped"
-}

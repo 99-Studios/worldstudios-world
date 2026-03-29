@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/ignightium_ore_block",
-    "particle": "big_addon:block/ignightium_ore_block"
-  },
-  "render_type": "solid"
-}

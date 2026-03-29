@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/block_of_flint",
-    "particle": "big_addon:block/block_of_flint"
-  },
-  "render_type": "solid"
-}

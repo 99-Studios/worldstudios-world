@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/andor_leaves",
-    "particle": "big_addon:block/andor_leaves"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "big_addon:block/rebounded_fire",
-    "particle": "big_addon:block/rebounded_fire"
-  },
-  "render_type": "translucent"
-}

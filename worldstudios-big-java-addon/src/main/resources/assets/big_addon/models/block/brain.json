@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "big_addon:block/bird_brain",
-    "particle": "big_addon:block/bird_brain"
-  },
-  "render_type": "solid"
-}

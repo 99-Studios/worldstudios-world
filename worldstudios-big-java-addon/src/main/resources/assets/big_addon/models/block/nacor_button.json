@@ -1,8 +1,0 @@
-{
-  "parent": "block/button",
-  "textures": {
-    "texture": "big_addon:block/nacor_planks",
-    "particle": "big_addon:block/nacor_planks"
-  },
-  "render_type": "solid"
-}
